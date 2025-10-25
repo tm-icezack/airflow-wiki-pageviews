@@ -1,6 +1,6 @@
 
   <h1>📊 Airflow-wiki-pageviews</h1>
-<img width="1536" height="1024" alt="Copilot_20251024_222618" src="https://github.com/user-attachments/assets/7fbdc1bb-2275-4e1a-a27c-76d12acd430a" />
+
 
 
   <h2>📌 Project Title</h2>
